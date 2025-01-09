@@ -65,7 +65,7 @@ public class Choice
 public class GPTAPI : MonoBehaviour
 {
     private readonly string apiUrl = "https://api.openai.com/v1/chat/completions";
-    private readonly string apiKey = "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"; 
+    private readonly string apiKey = ""; 
 
     public TMP_Text W1text;
 
